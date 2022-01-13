@@ -1,4 +1,4 @@
-# Project: Projekt 1
+# Project: Project 1
 # Autor:   Evgenii Shiliaev
 # Datum:   24.02.2021
 
