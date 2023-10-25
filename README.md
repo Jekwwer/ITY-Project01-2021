@@ -1,13 +1,12 @@
-# ITY-Project1-2021
+# ITY-Project01-2021
 
-Solution of the 1st ITY project in 2020/21. \
-Řešení 1. projektu z předmětu ITY v roce 2020/21. \
-VUT FIT
+Solution for the 1st project from the subject _'ITY (Typography and Publishing)'_ for the academic year 2020/21 at VUT FIT. \
+Řešení 1. projektu z předmětu _'ITY (Typografie a publikování)'_ pro akademický rok 2020/21 na VUT FIT.
 
-## Hodnocení
+## Evaluation
 
-| Chyba                                                                                  | Penalizace |     Stav |
-| :------------------------------------------------------------------------------------- | :--------: | -------: |
-| Odkazy na sekce sázeny 'na tvrdo' nebo nestandardním způsobem (správně: \label a \ref) |    -0.5    | Opraveno |
+| Mistake                                                                          | Penalties |    Status |
+| :------------------------------------------------------------------------------- | :-------: | --------: |
+| Links to sections set 'hard' or in a non-standard way (correct: \label and \ref) |   -0.5    | Corrected |
 
-Celkové hodnocení   **9,5/10** b.
+Total points: **9.5/10**
